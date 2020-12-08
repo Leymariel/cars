@@ -1,3 +1,10 @@
+## Identifying Information: 
+1. Name: Lawrence Leymarie
+2. Student ID: 2370408
+3. Email: leymarie@chapman.edu
+4. Class: CPSC298-02
+5. Assignment: cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
